@@ -1,0 +1,4 @@
+b = [30 ,5 ,5 ,30, -45]
+for e in b:
+    if b.count(e) <2:
+        print(e)
